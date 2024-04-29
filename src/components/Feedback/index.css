@@ -1,0 +1,20 @@
+/* Write your CSS code here. */
+.image {
+  height: 40px;
+  width: 40px;
+}
+.list-item {
+  list-style-type: none;
+}
+.button-item-container {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  height: 50px;
+  width: 50px;
+}
+.emojiName {
+  color: #1e293b;
+  font-family: 'roboto';
+  font-size: 10px;
+}
